@@ -7,11 +7,7 @@ function average(list){
            
         if(item%2!==0){
             list2.push(item);
-           
-           
-            sum +=item;
-         
-           
+            sum +=item;  
         }
     }
      avg=sum/list2.length;
