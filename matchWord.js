@@ -9,5 +9,5 @@ function match(str1,str2){
     else
         return false;
 }
-const result=match('Peter Parker','pet');
+const result=match('Peter Parker','eter P');
 console.log(result);
